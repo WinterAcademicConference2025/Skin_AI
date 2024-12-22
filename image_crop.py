@@ -1,5 +1,5 @@
 import cv2
-import numpy as np
+
 
 cv2_img = cv2.imread("/Users/jjummi/Desktop/WinterAcademicConfernece2025/skindisease_imgsample.jpg", cv2.IMREAD_COLOR) # 원본 이미지
 print(cv2_img.shape)
